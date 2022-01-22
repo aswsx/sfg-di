@@ -19,8 +19,8 @@ public class SfgConfiguration {
         return username;
     }
 
-    public void setName(String name) {
-        this.username = name;
+    public void setName(String username) {
+        this.username = username;
     }
 
     public String getPassword() {
