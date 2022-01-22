@@ -10,11 +10,11 @@ public class FakeDataSource {
     private String password;
     private String jdbcurl;
 
-    public String getName() {
+    public String getUsername() {
         return name;
     }
 
-    public void setName(String name) {
+    public void setUsername(String name) {
         this.name = name;
     }
 
