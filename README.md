@@ -5,6 +5,12 @@ This repository is for an example application built in my [Spring Framework 5 - 
 As you work through the course, please feel free to fork this repository to your out GitHub repo. Most links contain links 
 to source code changes. If you encounter a problem you can compare your code to the lesson code. [See this link for help with compares](https://github.com/springframeworkguru/spring5webapp/wiki#getting-an-error-but-cannot-find-what-is-different-from-lesson-source-code)
 
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/aswsx/sfg-di)
+![GitHub last commit](https://img.shields.io/github/last-commit/aswsx/sfg-di)
+![GitHub top language](https://img.shields.io/github/languages/top/aswsx/sfg-di)
+![GitHub language count](https://img.shields.io/github/languages/count/aswsx/sfg-di)
+![Lines of code](https://img.shields.io/tokei/lines/github/aswsx/sfg-di)
+
 ## All Spring Framework Guru Courses
 ### Spring Framework 5
 * [Spring Framework 5: Beginner to Guru](https://www.udemy.com/testing-spring-boot-beginner-to-guru/?couponCode=GITHUB_REPO) - Get the most modern and comprehensive course available for the Spring Framework! Join over 8,200 over Guru's in an Slack community exclusive to this course! More than 3,700 students have given this 53 hour course a 5 star review!
